@@ -2,8 +2,6 @@
 
 🎓 Final year B.Tech (Civil Engineering) @ NIT Agartala  
 📊 Building in **Data Analytics & Supply Chain Planning**  
-🚀 Incoming Consultant @ **o9 Solutions**
-
 ---
 
 ## 🛠️ What I've Built

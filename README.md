@@ -38,7 +38,6 @@ profile = {
     "domain":    ["Supply Chain Planning", "Data Analytics", "ETL"],
     "tools":     ["Python", "SQL", "Power BI", "Jupyter"],
     "concepts":  ["Demand Management", "S&OP", "ABC-XYZ", "Inventory Optimization"],
-    "next":      ["o9 Solutions", "APICS CSCP", "Cloud & BI certifications"]
 }
 ```
 
